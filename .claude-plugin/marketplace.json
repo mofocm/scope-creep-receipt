@@ -1,0 +1,12 @@
+{
+  "name": "carlomakes-mods",
+  "description": "Small useless Claude Code mods.",
+  "owner": { "name": "Carlo" },
+  "plugins": [
+    {
+      "name": "scope-creep-receipt",
+      "source": "./plugin",
+      "description": "After every turn, Claude Code prints you a receipt for everything it did while you asked for one thing."
+    }
+  ]
+}

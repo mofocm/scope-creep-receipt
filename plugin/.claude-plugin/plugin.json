@@ -1,0 +1,8 @@
+{
+  "name": "scope-creep-receipt",
+  "version": "0.1.0",
+  "description": "After every turn, Claude Code prints you a receipt for everything it did while you asked for one thing.",
+  "author": { "name": "Carlo" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
